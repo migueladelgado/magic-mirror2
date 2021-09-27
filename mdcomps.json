@@ -1,20 +1,21 @@
 {
     "anytime" : [
-        "Well hello there, you swole motherfucker!"
+        "Well hello there, you swole motherfucker!",
+        "I like your style"
     ],
     "morning" : [
-        "Good morning Babe, I hope you're horngry ;)",
-        "Getchu some coffee A$AP!",
-        "Go get 'em, Tiger!"
+        "Good morning babe, I hope you're horngry ;)",
+        "I smell coffee brewing!",
+        "Wake up and grind my dude!"
     ],
     "afternoon" : [
         "Is it 5 O clock yet?",
-        "Lookin goood!",
-        "You're more fun than bubble wrap!"
+        "Crack one open",
+        "You work too hard!"
     ],
     "evening" : [
-        "About that time!!",
-        "You are making a difference. Maybe..",
-        "..."
+        "About time to turn your brain off..",
+        "Lets chill",
+        "You are hotter than tea on a winter morning"
     ]
 }
